@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": Adel Saheb,
-    "degree": Engineering,
+    "name": "Adel Saheb",
+    "degree": "Engineering"
   },
   {
     "id": 2,
-    "name": Shadi Mohammadi,
-    "degree": Math,
+    "name": "Shadi Mohammadi",
+    "degree": "Math"
   },
   {
     "id": 3,
-    "name": Rahele Rajaii,
-    "degree": English,
+    "name": "Rahele Rajaii",
+    "degree": "English"
   }
 ]
